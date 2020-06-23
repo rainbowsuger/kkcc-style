@@ -1,0 +1,22 @@
+{
+  "name": "kkcc-viewer",
+  "version": "1.0.3",
+  "description": "图片预览",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainbowsuger/kkcc-viewer.git"
+  },
+  "author": "rainbowsuger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainbowsuger/kkcc-viewer/issues"
+  },
+  "homepage": "https://github.com/rainbowsuger/kkcc-viewer#readme",
+  "dependencies": {
+    "v-viewer": "^1.5.1"
+  }
+}
